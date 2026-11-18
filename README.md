@@ -1,0 +1,4 @@
+## Direcciones en Sepolia
+
+- BUSD: 0xeE13d0Ddfbefe1461dfedfe4331De20cBeF37a39
+- CCNFT: 0xf619fFa8e254c733931C6Ef6fe05D0EEfA0D2749
